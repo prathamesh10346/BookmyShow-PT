@@ -17,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 <p align="left"> <img src="/assets/images/Bookmyshow-PT.jpg" alt="prathamesh10346" /> </p>
 
-BookmyShow-PT/assets/images/img2.png
