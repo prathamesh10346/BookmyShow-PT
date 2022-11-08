@@ -15,5 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<p align="left"> <img src="/assets/images/Bookmyshow-PT.jpg" alt="prathamesh10346" /> </p>
+<p align="left"> <img src="/assets/images/Bookmyshow-PT3.jpg" alt="prathamesh10346" /> </p>
+<p align="left"> <img src="/assets/images/Bookmyshow-PT1.jpg" alt="prathamesh10346" /> </p>
+<p align="left"> <img src="/assets/images/Bookmyshow-PT2.jpg" alt="prathamesh10346" /> </p>
 
